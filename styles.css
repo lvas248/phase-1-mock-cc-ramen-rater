@@ -100,3 +100,6 @@ form h4 {
   color: white;
   background-color: black;
 }
+#edit-ramen{
+  display: none;
+}
